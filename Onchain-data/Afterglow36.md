@@ -42,7 +42,7 @@ ABI (Application Binary Interface)：用于前端应用与合约交互的接口�
 四、合约部署    
 部署环境选择： 在 Remix 的“Deploy & Run Transactions”标签页中，选择 “Browser Wallet”和对应account。      
 网络确认： 确保 MetaMask 已连接到 Sepolia 测试网。   
-执行部署：   
+执行部署：    
 点击 Deploy 按钮。   
 MetaMask 弹出交易确认窗口，显示预估的 Gas 费用。    
 确认并等待交易被打包到区块。  
